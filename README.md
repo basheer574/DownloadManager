@@ -1,2 +1,2 @@
 # DownloadManager
-A simple Download manager written in java programming language.
+A simple Download manager written in C# Programming language.
